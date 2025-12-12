@@ -36,6 +36,7 @@ java App
 
 ## 📄 Licencia
 Sistema de Gestión de Restaurantes
+Universidad Tecnologica de Panamá
 Proyecto académico – Asignatura de Programación
 
 Autores:
@@ -45,8 +46,7 @@ Autores:
 - Luis Martínez
 
 Este proyecto se distribuye únicamente con fines educativos. 
-Queda prohibida su utilización comercial, modificación con intención de lucro, 
-o redistribución sin el consentimiento expreso de los autores.
+Su modificación, redistricbucion, y uso comerciales son permitidos bajo la condicion de dejar creditos a sus autores.
 
 © 2025 David Escalona, Julián Pérez, Rafael Londoño y Luis Martínez.
 Todos los derechos reservados.
