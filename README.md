@@ -22,14 +22,17 @@ Sistema-Gestion-Restaurantes/
 
 ## Compilación y ejecución
 
-Abrir una terminal en la **carpeta raíz del proyecto** (`Sistema-Gestion-Restaurantes/`) y ejecutar los siguientes comandos:
+Abrir una terminal en la **carpeta raíz del proyecto** (`Sistema-Gestion-Restaurantes/`) 
+cd "/home/david/Documentos/tareas/Programación/Proyecto FiNAL/sistema de gestion de restaurantes"
+cd src
 
-```bash
+y ejecutar los siguientes comandos:
+
 # Compilar todo el código fuente
-javac -d out -sourcepath src src/domain/*.java src/main/App.java src/utils/IOUtils.java
+javac *.java
 
 # Ejecutar la aplicación
-java -cp out main.App
+java App
 
 ## 📄 Licencia
 Sistema de Gestión de Restaurantes
