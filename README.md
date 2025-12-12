@@ -6,9 +6,10 @@ Este sistema modela la operación básica de un restaurante, incluyendo gestión
 ## 📁 Estructura del Proyecto
 Sistema-Gestion-Restaurantes/
 ├── docs/ # Documentación del proyecto
-│ └── uml/ # Diagramas UML 
+│ └── uml/ # Diagramas UML
+│ └── Manual/   #Manual de Usuario
 ├── src/domain/ # Clases del dominio 
-         └──main/  #App.java
+│  └──main/  #App.java
 │  └── utils/   #IOUtils
 └── README.md # Este archivo
 
@@ -23,6 +24,7 @@ Sistema-Gestion-Restaurantes/
 ## Compilación y ejecución
 
 Abrir una terminal en la **carpeta raíz del proyecto** (`Sistema-Gestion-Restaurantes/`)
+
 cd "/home/david/Documentos/tareas/Programación/Proyecto FiNAL/sistema de gestion de restaurantes"
 cd src
 
