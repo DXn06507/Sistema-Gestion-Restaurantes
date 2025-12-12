@@ -22,7 +22,7 @@ Sistema-Gestion-Restaurantes/
 
 ## Compilación y ejecución
 
-Abrir una terminal en la **carpeta raíz del proyecto** (`Sistema-Gestion-Restaurantes/`) 
+Abrir una terminal en la **carpeta raíz del proyecto** (`Sistema-Gestion-Restaurantes/`)
 cd "/home/david/Documentos/tareas/Programación/Proyecto FiNAL/sistema de gestion de restaurantes"
 cd src
 
